@@ -1,5 +1,4 @@
 
-<!DOCTYPE html>
 <html>
 
    <head>
@@ -7,7 +6,8 @@
    </head>
 	
    <body>
-      <marquee>This is basic example of marquee</marquee>
+      <marquee>
+Welcome to my personal website!</marquee>
    </body>
 	
 </html>
