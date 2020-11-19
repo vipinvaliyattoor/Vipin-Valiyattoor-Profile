@@ -7,8 +7,7 @@
 <body>
   <header>
     <h1>Vipin Valiyattoor</h1>
-    <nav></nav>
-  </header>
+     </header>
 
   <main>
     {{content}}
