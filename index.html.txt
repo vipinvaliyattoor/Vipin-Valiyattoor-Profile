@@ -12,7 +12,7 @@
   <main>
     {{content}}
   </main>
-<marquee>This is basic example of marquee</marquee>
+<marquee> Welcome </marquee>
   <footer>
     <p>©</p>
   </footer>
