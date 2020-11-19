@@ -1,20 +1,10 @@
 <!DOCTYPE html>
-<html lang="en-ca">
-<head>
-  <meta charset="utf-8">
-  <title>Website</title>
-</head>
+<html>
 <body>
-  <header>
-    <h1>Vipin Valiyattoor</h1>
-     </header>
 
-  <main>
-    {{content}}
-  </main>
+<h1>My First Heading</h1>
 
-  <footer>
-    <p>©</p>
-  </footer>
+<p>My first paragraph.</p>
+
 </body>
 </html>
