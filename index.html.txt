@@ -9,6 +9,7 @@
     <h1></h1>
     <nav></nav>
   </header>
+<marquee>This is basic example of marquee</marquee>
 
   <main>
     {{content}}
