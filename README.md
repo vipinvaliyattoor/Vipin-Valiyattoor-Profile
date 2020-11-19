@@ -11,9 +11,12 @@ Welcome to my personal website!</marquee>
 	
 	
 
-  <h1>This is a heading</h1>
-  <p>This is a paragraph.</p>
-
+  <h1>Education</h1>
+  <p>.....</p>
+<h1>Research</h1>
+  <p>.....</p>
+  <h1>Contact</h1>
+  <p>.....</p>
    </body>
 	
 </html>
