@@ -12,7 +12,6 @@
   <main>
     {{content}}
   </main>
-<marquee> Welcome </marquee>
   <footer>
     <p>©</p>
   </footer>
