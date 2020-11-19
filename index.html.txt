@@ -1,10 +1,21 @@
 <!DOCTYPE html>
-<html>
+<html lang="en-ca">
+<head>
+  <meta charset="utf-8">
+  <title>Website</title>
+</head>
 <body>
+  <header>
+    <h1></h1>
+    <nav></nav>
+  </header>
 
-<h1>My First Heading</h1>
+  <main>
+    {{content}}
+  </main>
 
-<p>My first paragraph.</p>
-
+  <footer>
+    <p>©</p>
+  </footer>
 </body>
 </html>
