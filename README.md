@@ -7,7 +7,7 @@
 	
    <body>
       <marquee>
-Welcome to my personal website!</marquee>
+Welcome to my personal website!!</marquee>
    </body>
 	
 </html>
