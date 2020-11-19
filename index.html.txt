@@ -9,12 +9,10 @@
     <h1></h1>
     <nav></nav>
   </header>
-<marquee>This is basic example of marquee</marquee>
-
   <main>
     {{content}}
   </main>
-
+<marquee>This is basic example of marquee</marquee>
   <footer>
     <p>©</p>
   </footer>
